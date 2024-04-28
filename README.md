@@ -11,3 +11,4 @@
 Через методы контроллера *DemoController* осуществляется доступ к защищенным ресурсам на основе ролей.
 
 Добавлена краткая документация к API с использованием OpenAPI 3 и Swagger UI:
+![picture](https://github.com/dgrishin95/t1_homework4/blob/master/src/main/resources/static/picture.PNG?raw=true)
